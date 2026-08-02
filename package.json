@@ -30,12 +30,12 @@
     "mocha": "^10.1.0",
     "standard": "^17.0.0"
   },
-  "author": "Stalwart Team",
+  "author": "Srinu Desetti",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/webdevelopersrinu/valkey-errors/issues"
   },
-  "homepage": "https://github.com/webdevelopersrinu/valkey-errors#readme",
+  "homepage": "https://blog.srinudesetti.in/open-source/valkey-errors",
   "directories": {
     "test": "test",
     "lib": "lib"
