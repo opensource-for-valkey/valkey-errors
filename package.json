@@ -1,6 +1,6 @@
 {
   "name": "valkey-errors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Error classes used in Valkey clients",
   "main": "index.js",
   "types": "index.d.ts",
